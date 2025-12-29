@@ -1,1 +1,1 @@
-print ("bye, World!" )
+print ("bye, Friend!" )
